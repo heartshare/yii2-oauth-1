@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components\oauth;
+namespace ivantree\oauth;
 
 use Yii;
 use yii\authclient\OAuth2;
