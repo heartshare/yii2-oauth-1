@@ -1,0 +1,21 @@
+{
+    "name": "ivantree/yii2-oauth",
+    "description": "oauth weibo QQ weixin",
+    "type": "library",
+    "keywords": ["yii2","extension","oauth"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ivantree",
+            "email": "cxmiaomu@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ivantree\\oauth\\": ""
+        }
+    }
+}
