@@ -6,7 +6,7 @@
  * Time: 下午2:15
  * To change this template use File | Settings | File Templates.
  */
-namespace common\components\oauth;
+namespace ivantree\oauth;
 
 use Yii;
 use yii\helpers\Html;
