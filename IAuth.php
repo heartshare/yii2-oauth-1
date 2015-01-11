@@ -4,7 +4,6 @@ namespace ivantree\oauth;
 
 /**
  * Sina Weibo OAuth
- * @author xjflyttp <xjflyttp@gmail.com>
  */
 interface IAuth {
 
