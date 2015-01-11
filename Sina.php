@@ -1,13 +1,12 @@
 <?php
 
-namespace common\components\oauth;
+namespace ivantree\oauth;
 
 use Yii;
 use yii\authclient\OAuth2;
 
 /**
  * Sina Weibo OAuth
- * @author xjflyttp <xjflyttp@gmail.com>
  */
 class Sina extends OAuth2 implements IAuth {
 
