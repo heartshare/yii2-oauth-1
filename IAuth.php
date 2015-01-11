@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components\oauth;
+namespace ivantree\oauth;
 
 /**
  * Sina Weibo OAuth
